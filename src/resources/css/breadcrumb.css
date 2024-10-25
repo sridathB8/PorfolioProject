@@ -1,0 +1,32 @@
+:root{
+    ---neonColor: rgb(0, 0, 0);
+}
+.breadCrumbItem{
+    background-color:#fff;
+    /* background-color: rgb(228, 230, 233); */
+    border-radius: 21px 21px 21px 21px;
+    padding: 2px; 
+    /* width: 100%; */
+    /* border: 2px solid rgb(0, 0, 0); */
+}
+
+.breadCrumbItem .icon{
+    padding: 5%;
+    /* color: rgb(77, 77, 77); */
+    color: var(---neonColor);
+}
+
+.show{
+    opacity: -5;
+}
+.hide{
+    opacity: 0;
+}
+
+.FullPageError{
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(---pinkColor)
+}

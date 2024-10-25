@@ -1,0 +1,12 @@
+.Accada{
+    width: 85%;
+    height: 70vh;
+    background-color: blue;
+    backdrop-filter: blur(10px);
+    margin: 20px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
