@@ -61,7 +61,7 @@ function SocialProfiles() {
           alt="Head"
           sx={{
             position: "absolute",
-            bottom: -20,  // Adjust to position it in the corner
+            bottom: -60,  // Adjust to position it in the corner
             right: -20,   // Adjust to position it in the corner
             width: 80,    // Adjust the size as needed
             height: "auto",
